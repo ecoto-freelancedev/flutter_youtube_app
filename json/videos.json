@@ -1,0 +1,35 @@
+[
+  {
+    "nombre":"Draggable",
+    "url":"https://www.youtube.com/watch?v=QzA4c4QHZCY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=33&t=0s"
+  },
+  {
+    "nombre":"ValueListenableBuilder",
+    "url":"https://www.youtube.com/watch?v=s-ZG-jS5QHQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=32&t=0s"
+  },
+  {
+    "nombre":"SizedBox",
+    "url":"https://www.youtube.com/watch?v=EHPu_DzRfqA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=31&t=0s"
+  },
+  {
+    "nombre":"Dimissible",
+    "url":"https://www.youtube.com/watch?v=iEMgjrfuc58&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=30&t=0s"
+  },
+
+  {
+    "nombre":"AnimatedBuilder",
+    "url":"https://www.youtube.com/watch?v=N-RiyZlv8v8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=29&t=0s"
+  },
+  {
+    "nombre":"Positioned",
+    "url":"https://www.youtube.com/watch?v=EgtPleVwxBQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=28&t=0s"
+  },
+  {
+    "nombre":"Align",
+    "url":"https://www.youtube.com/watch?v=g2E7yl3MwMk&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=27&t=0s"
+  },
+  {
+    "nombre":"BackdropFilter",
+    "url":"https://www.youtube.com/watch?v=dYRs7Q1vfYI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=26&t=0s"
+  }
+]
